@@ -2,7 +2,7 @@ let nomeUsuário = "";
 let elemento = document.querySelector("#nome-usuário");
 
 while(nomeUsuário == ""){
-    nomeUsuário = prompt("Qualo seu nome?");
+    nomeUsuário = prompt("Qual o seu nome?");
 }
 
 if(nomeUsuário == null){
